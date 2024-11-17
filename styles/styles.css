@@ -19,6 +19,7 @@ padding: 0;
 }
 
 .frame2 {
+    border-radius: 4px;
     background-color: #00FFFF;
     margin: 16px 8px;
     padding: 8px;
@@ -26,24 +27,28 @@ padding: 0;
 }
 
 .frame3 {
+    border-radius: 4px;
     background-color: #00FFFF;
     margin: 16px 8px;
     padding: 8px;
 }
 
 .frame4 {
+    border-radius: 4px;
     background-color: #00FFFF;
     margin: 16px 8px;
     padding: 8px;
 }    
 
 .frame5 {
+    border-radius: 4px;
     background-color: #00FFFF;
     margin: 16px 8px;
     padding: 8px;
 }
 
 .frame6 {
+    border-radius: 4px;
     background-color: #00FFFF;
     margin: 16px 8px;
     padding: 8px;
